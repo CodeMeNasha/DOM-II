@@ -6,3 +6,6 @@ funBusClick.addEventListener('mouseenter', () => {
 funBusClick.addEventListener('mouseleave', () => {
     funBusClick.style.transform = 'scale(1.0)';
 })
+
+
+const secondImage = document.querySelector()
